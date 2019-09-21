@@ -1,4 +1,4 @@
-
+//Minor Change
 public class Die
 {
 	private int lastRoll;
