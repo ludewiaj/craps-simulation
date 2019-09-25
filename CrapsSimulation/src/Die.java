@@ -41,6 +41,10 @@ public class Die
 		// add the following to the end of the above line:
 		// + " " + super.toString()
 	}
+	
+	public static String testStatic() {
+		return "Die.testStatic()";
+	}
 
 	public String toString(int msg) // Overloading... but NOT overriding!
 	{
